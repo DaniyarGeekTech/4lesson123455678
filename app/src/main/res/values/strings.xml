@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">4monthhmw1</string>
+    <string name="Title">Title</string>
+    <string name="Des">Description</string>
+    <string name="save">Save</string>
+    <string name="start">Get Started</string>
+    <string name="note">Note</string>
+    <string name="name">Name</string>
+    <string name="Num">Number</string>
+    <string name="con">Contact</string>
+    <string name="pro">Profile</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
